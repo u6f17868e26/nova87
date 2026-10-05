@@ -1,2 +1,11 @@
 # nova87
-small experiments
+
+## Random
+- pin the versions
+- try the simpler approach
+
+```bash
+docker compose up -d
+```
+
+<!-- scratch -->
